@@ -1,0 +1,5 @@
+com/adobe/aem/project/tool/Main.class
+com/adobe/aem/project/tool/AbstractCommand.class
+com/adobe/aem/project/tool/AnalyseConfigsCommand.class
+com/adobe/aem/project/tool/CliParser.class
+com/adobe/aem/project/tool/ConvertConfigsCommand.class

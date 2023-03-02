@@ -1,0 +1,5 @@
+/root/aemanalyser-maven-plugin/aem-project-tool/src/main/java/com/adobe/aem/project/tool/Main.java
+/root/aemanalyser-maven-plugin/aem-project-tool/src/main/java/com/adobe/aem/project/tool/AnalyseConfigsCommand.java
+/root/aemanalyser-maven-plugin/aem-project-tool/src/main/java/com/adobe/aem/project/tool/CliParser.java
+/root/aemanalyser-maven-plugin/aem-project-tool/src/main/java/com/adobe/aem/project/tool/AbstractCommand.java
+/root/aemanalyser-maven-plugin/aem-project-tool/src/main/java/com/adobe/aem/project/tool/ConvertConfigsCommand.java

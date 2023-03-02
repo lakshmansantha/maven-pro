@@ -1,0 +1,8 @@
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/RunmodeMappingUserFeatureAggregatorTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/AemAnalyserUtilTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/tasks/ConfigurationsTaskTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/AemAggregatorTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/impl/EnvVarAnalyserTaskTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/AemSdkProductFeatureGeneratorTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/analyser/AemAnalyserTest.java
+/root/aemanalyser-maven-plugin/aemanalyser-core/src/test/java/com/adobe/aem/project/RunModesTest.java
